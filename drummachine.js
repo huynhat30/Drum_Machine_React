@@ -181,6 +181,7 @@ const App = () => {
                 <button onClick={changeGroupEvent}>Change group</button>
               </div>
             </div>
+            <div class="footer">By <a href="https://github.com/huynhat30">Huy Giang <i class="fa fa-github"></i></a></div>
         </div>
     )
 }
